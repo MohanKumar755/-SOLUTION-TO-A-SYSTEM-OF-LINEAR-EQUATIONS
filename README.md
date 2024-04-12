@@ -13,6 +13,11 @@ Import the numpy module to use the built-in functions for calculation
 ### Step 4: End the program
 ## Program:
 ```
+*/
+Program to implement  solution to a system of linear equations
+Developed by:Mohankumar.s
+RegisterNumber:23005002014
+/*
 import numpy as np
 a = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 b = np.array([-9,4,-1])
@@ -20,7 +25,12 @@ solution=np.linalg.solve(a,b)
 print(solution)
 ```
 ## Output:
-![SYSTEM OF LINEAR EQUATION](https://github.com/MohanKumar755/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/146155007/79a6f021-cdca-4eb7-9a82-d3ed98bc136b)
+#Program to find the solution to a system of linear equations
+#Developed by:Mohankumar.s
+#RegisterNumber:23005002014
+![m1](https://github.com/MohanKumar755/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/146155007/c23aeee6-a29f-4385-91b8-c7aadc57e5c4)
+
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program.
