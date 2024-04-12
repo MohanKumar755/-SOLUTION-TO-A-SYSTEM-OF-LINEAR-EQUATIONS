@@ -25,9 +25,11 @@ solution=np.linalg.solve(a,b)
 print(solution)
 ```
 ## Output:
-#Program to find the solution to a system of linear equations
-#Developed by:Mohankumar.s
-#RegisterNumber:23005002014
+##Program to find the solution to a system of linear equations
+
+##Developed by:Mohankumar.s
+
+##RegisterNumber:23005002014
 ![m1](https://github.com/MohanKumar755/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/146155007/c23aeee6-a29f-4385-91b8-c7aadc57e5c4)
 
 
