@@ -1,4 +1,4 @@
-# SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+# EX:1-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
 # DATE: 16/03/2024
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
@@ -14,7 +14,6 @@ Import the numpy module to use the built-in functions for calculation
 ## Program:
 ```
 */
-Program to implement  solution to a system of linear equations
 Developed by:Mohankumar.s
 RegisterNumber:23005002014
 /*
